@@ -1,0 +1,2 @@
+# Memorize
+stanford memorize class
