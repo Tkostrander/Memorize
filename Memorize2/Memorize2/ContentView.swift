@@ -48,7 +48,7 @@ struct CardView: View {
     }
 }
 
-
+// I don know what is going on.
 
 
 
